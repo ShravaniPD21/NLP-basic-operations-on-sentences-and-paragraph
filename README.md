@@ -1,1 +1,1 @@
-# NLP-basic-operations-on-snetences-and-paragraph
+# NLP-basic-operations-on-sentences-and-paragraph
